@@ -1,0 +1,40 @@
+﻿  interactions.cpp
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\Consts.h(11,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\Consts.h(12,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\Consts.h(13,37): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\Consts.h(14,42): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(65,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(66,24): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(68,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(68,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(69,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(69,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(131,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(132,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(132,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\zeeve\source\repos\RacingAIGame\RacingAIGame\interactions.cpp(133,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  RacingAIGame.vcxproj -> C:\Users\zeeve\source\repos\RacingAIGame\Debug\RacingAIGame.exe
